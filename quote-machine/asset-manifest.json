@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-mini-projects/quote-machine/static/css/main.0b0b924c.chunk.css",
+    "main.js": "/react-mini-projects/quote-machine/static/js/main.fe42994b.chunk.js",
+    "main.js.map": "/react-mini-projects/quote-machine/static/js/main.fe42994b.chunk.js.map",
+    "runtime-main.js": "/react-mini-projects/quote-machine/static/js/runtime-main.0ed3c3da.js",
+    "runtime-main.js.map": "/react-mini-projects/quote-machine/static/js/runtime-main.0ed3c3da.js.map",
+    "static/js/2.73c02b79.chunk.js": "/react-mini-projects/quote-machine/static/js/2.73c02b79.chunk.js",
+    "static/js/2.73c02b79.chunk.js.map": "/react-mini-projects/quote-machine/static/js/2.73c02b79.chunk.js.map",
+    "index.html": "/react-mini-projects/quote-machine/index.html",
+    "static/css/main.0b0b924c.chunk.css.map": "/react-mini-projects/quote-machine/static/css/main.0b0b924c.chunk.css.map",
+    "static/js/2.73c02b79.chunk.js.LICENSE.txt": "/react-mini-projects/quote-machine/static/js/2.73c02b79.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ed3c3da.js",
+    "static/js/2.73c02b79.chunk.js",
+    "static/css/main.0b0b924c.chunk.css",
+    "static/js/main.fe42994b.chunk.js"
+  ]
+}

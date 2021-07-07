@@ -8,5 +8,6 @@ Some projects are inspired from freecodecamp
 | - | ------- | --------- |
 | 1 | Random Quote | [Live demo](https://kalee123.github.io/react-mini-projects/quote-machine) |
 | 2 | Promodoro clock | [Live demo](https://kalee123.github.io/react-mini-projects/promodoro-clock) |
-| 3 | markdown-previewer | [Live demo](https://kalee123.github.io/react-mini-projects/markdown-previewer) |
-| 4 | Lorem Ipsum | [Live demo](https://kalee123.github.io/react-mini-projects/lorem-ipsum) |
+| 3 | Markdown-previewer | [Live demo](https://kalee123.github.io/react-mini-projects/markdown-previewer) |
+| 4 | Quiz-app | [Live demo](https://kalee123.github.io/react-mini-projects/quiz-app) |
+| 5 | Lorem Ipsum | [Live demo](https://kalee123.github.io/react-mini-projects/lorem-ipsum) |

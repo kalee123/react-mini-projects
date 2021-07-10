@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-mini-projects/recipe-app/static/css/main.68cfe674.chunk.css",
+    "main.js": "/react-mini-projects/recipe-app/static/js/main.e54aff99.chunk.js",
+    "main.js.map": "/react-mini-projects/recipe-app/static/js/main.e54aff99.chunk.js.map",
+    "runtime-main.js": "/react-mini-projects/recipe-app/static/js/runtime-main.f4640975.js",
+    "runtime-main.js.map": "/react-mini-projects/recipe-app/static/js/runtime-main.f4640975.js.map",
+    "static/js/2.2ebbe6e6.chunk.js": "/react-mini-projects/recipe-app/static/js/2.2ebbe6e6.chunk.js",
+    "static/js/2.2ebbe6e6.chunk.js.map": "/react-mini-projects/recipe-app/static/js/2.2ebbe6e6.chunk.js.map",
+    "index.html": "/react-mini-projects/recipe-app/index.html",
+    "static/css/main.68cfe674.chunk.css.map": "/react-mini-projects/recipe-app/static/css/main.68cfe674.chunk.css.map",
+    "static/js/2.2ebbe6e6.chunk.js.LICENSE.txt": "/react-mini-projects/recipe-app/static/js/2.2ebbe6e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4640975.js",
+    "static/js/2.2ebbe6e6.chunk.js",
+    "static/css/main.68cfe674.chunk.css",
+    "static/js/main.e54aff99.chunk.js"
+  ]
+}

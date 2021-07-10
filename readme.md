@@ -10,4 +10,5 @@ Some projects are inspired from freecodecamp
 | 2 | Promodoro clock | [Live demo](https://kalee123.github.io/react-mini-projects/promodoro-clock) |
 | 3 | Markdown-previewer | [Live demo](https://kalee123.github.io/react-mini-projects/markdown-previewer) |
 | 4 | Quiz-app | [Live demo](https://kalee123.github.io/react-mini-projects/quiz-app) |
-| 5 | Lorem Ipsum | [Live demo](https://kalee123.github.io/react-mini-projects/lorem-ipsum) |
+| 5 | Recipe-app | [Live demo](https://kalee123.github.io/react-mini-projects/recipe-app) |
+| 6 | Lorem Ipsum | [Live demo](https://kalee123.github.io/react-mini-projects/lorem-ipsum) |
